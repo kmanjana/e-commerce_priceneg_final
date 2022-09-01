@@ -1,0 +1,69 @@
+.newloginbody{
+    text-align: center; 
+    background-image: url("https://th.bing.com/th/id/OIP.iKhux8sjKCOpvv-7gb7x3gHaJ6?w=262&h=189&c=7&r=0&o=5&pid=1.7");  
+     background-color: pink; 
+    background-size: cover;
+ background-repeat: no-repeat;
+ position:relative;
+ display: flex;
+ width:100%;
+ height:1000px;
+   background-position: center;
+   margin-top:2%;
+   
+}
+input[type=password]:focus {
+    background-color:#ecf0b7;
+  }
+  input[type=submit]:hover {
+    background-color:black;
+  }
+  #inputregisterfont{
+    font-family: FontAwesome;
+    font-size:small;
+    padding: 8px;
+    width:500px;
+    
+    margin: 15px;
+    
+    
+  }
+  .btn{
+    color:white;
+    background-color:darkkhaki; 
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+  }
+   .btn:hover{
+     cursor: pointer;
+     
+   }
+   .newloginhead{
+   
+    color:rgb(32, 17, 17);
+   margin-top:18px;
+    font-size:50px;
+    text-decoration: underline;
+    font-family: 'Merriweather', serif;
+  }
+  .borderboxlogin{
+    padding: 3%;
+    border-width: 1px;
+    box-shadow: 20px 20px 20px rgb(24, 20, 31);
+    background-position:left;
+    height:fit-content; 
+    margin-top:4%; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    padding: 3px;
+    max-width: 700px;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSK29Srg9ch9jUYKhqWBC4OuJV0zqv2C_ihg&usqp=CAU"); */
+    background-color: rgba(181, 167, 192, 0.589); 
+    /* color: black; */
+    /* position: relative; */
+   
+  } 

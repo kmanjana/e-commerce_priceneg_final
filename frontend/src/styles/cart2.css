@@ -1,0 +1,14 @@
+/* .navbar{
+    width: 0;
+    height: 0;
+    opacity: 0;
+}
+.footer{
+    width: 0;
+    height: 0;
+    opacity: 0;
+} */
+.cart-div{
+    position:relative;
+    /* height: 650px; */
+ }
